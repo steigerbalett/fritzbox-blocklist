@@ -27,6 +27,9 @@ ads.adiquity.com
 ads.admarvel.com
 ads.admoda.com
 ads.flurry.com
+ads.hulu.com
+ads-v-darwin.hulu.com
+ads-e-darwin.hulu.com
 ads.matomymobile.com
 ads.mobgold.com
 ads.mopub.com
