@@ -7,6 +7,7 @@ ad.leadboltmobile.net
 ad.madvertise.de
 ad.parrot.mable-inc.com
 ad.where.com
+ad.youtube.com
 adcontent.saymedia.com
 adcolony.com
 addition.com
@@ -35,6 +36,7 @@ ads.saymedia.com
 ads.smartdevicemedia.com
 ads.xxxad.net
 ads.yahoo.com
+ads.youtube.com
 ads1.msads.net
 ads1.msn.com
 ads2.mediaarmor.com
@@ -145,6 +147,8 @@ revivedadtag.com
 revsci.net
 rs-staticart.ybcdn.net
 s.amazon-adsystem.com
+s.youtube.com
+s.ytimg.com
 s0.2mdn.net
 s3.phluant.com
 show.buzzcity.net
