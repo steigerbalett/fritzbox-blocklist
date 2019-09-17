@@ -250,7 +250,7 @@ redbutton.de
 hbbtv.rtl2.de
 hbbtv.sat1.de
 hbbtv.sixx.de
-hbbtv.zdf.de
+hbbtv.daserste.de
 hbbtv.zdf.de
 hbbtv01p.anixe.net
 hbbtvapp.sonnenklar.tv
@@ -258,3 +258,6 @@ smartclip.net
 hbbtv.superrtl.de
 p-hbbtv.superrtl.de
 hbbtv.3sat.de
+hbbtv.wdr.de
+hbbtv.br.de
+hbbtv.ndr.de
