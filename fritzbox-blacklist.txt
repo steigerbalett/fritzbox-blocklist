@@ -58,6 +58,7 @@ ads.adadapted.com
 ads.adiquity.com
 ads.admarvel.com
 ads.admoda.com
+ads.adtiger.de
 ads.flurry.com
 ads.hulu.com
 ads.matomymobile.com
@@ -65,6 +66,7 @@ ads.mobgold.com
 ads.mopub.com
 ads.n-ws.org
 ads.ookla.com
+ads.publimatic.com
 ads.saymedia.com
 ads.smartdevicemedia.com
 ads.xxxad.net
