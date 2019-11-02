@@ -149,6 +149,7 @@ d2bgg7rjywcwsy.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
 d3oltyb66oj2v8.cloudfront.net
 dispatch.admixer.co.kr
+dn2.teads.tv
 do-not-tracker.org
 doubleclick.com
 doubleclick.net
@@ -200,6 +201,7 @@ mydas.mobi
 netdna.reporo.net
 nuggad.net
 oasc04012.247realmedia.com
+outbrain.com
 overture.com
 pflexads.com
 phluantmobile.net
