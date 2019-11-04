@@ -149,7 +149,6 @@ d2bgg7rjywcwsy.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
 d3oltyb66oj2v8.cloudfront.net
 dispatch.admixer.co.kr
-dn2.teads.tv
 do-not-tracker.org
 doubleclick.com
 doubleclick.net
@@ -230,6 +229,8 @@ static.estebull.com
 stats.pflexads.com
 strikeadcdn.s3.amazonaws.com
 tapad.com
+teads.com
+teads.tv
 thinknear-hosted.thinknearhub.com
 trackersimulator.org
 tracking.klickthru.com
