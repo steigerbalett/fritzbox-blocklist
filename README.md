@@ -1,4 +1,4 @@
-:do_not_litter: Fritz!Box Blacklist
+:do_not_litter: Fritz!Box Blocklist
 ===================================
 
 A list of domains to be blocked in my Fritz!Box (and maybe yours).
@@ -10,10 +10,9 @@ Instructions
 
 Short instructions:
 
-1. See [AVM's instructions on how to setup a blacklist in your Fritz!Box](http://en.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/publication/show/8_Restricting-Internet-access-using-parental-controls/)
-2. Copy contents of [fritzbox-blacklist.txt](https://raw.githubusercontent.com/steigerbalett/fritzbox-blacklist/master/fritzbox-blacklist.txt) to your Fritz!Box' blacklist
-2. Copy contents of [fritzbox-blacklist-NoAmazonUpdates.txt](https://raw.githubusercontent.com/steigerbalett/fritzbox-blacklist/master/fritzbox-blacklist-NoAmazonUpdates.txt) to your Fritz!Box' blacklist for the removal of possiblity of amazon devices to contact their updateserver
-4. Be sure to check if HTTPS traffic is still allowed
+1. See [AVM's instructions on how to setup a blocklist in your Fritz!Box](http://en.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/publication/show/8_Restricting-Internet-access-using-parental-controls/)
+2. Copy contents of [fritzbox-blocklist.txt](https://raw.githubusercontent.com/steigerbalett/fritzbox-blacklist/master/fritzbox-blocklist.txt) to your Fritz!Box' blacklist
+3. Be sure to check if HTTPS traffic is still allowed
 
 This will work with a standard firmware.
 
@@ -30,18 +29,18 @@ Know issues
 Development
 -----------
 
-There is a maximum of 500 entries for the Fritz Box' blacklist. Choose each entry wisely.
+There is a maximum of 500 entries for the Fritz Box' blocklist. Choose each entry wisely.
 
 Put each domain in a single line. Do not enter comments or anything else.
 
 E.g.: To block `http://ads.example.com/some_script.js` enter `ads.example.com` or just `example.com`. `example.com` will also block all files from `www.example.com` and any other subdomain.
 
-On the structure of URLs for this blacklist consult [AVM's documentation for blacklists](http://service.avm.de/help/de/FRITZ-Box-Fon-WLAN-7490/014/hilfe_internet_filter_blacklist). Keep in mind to keep this list as simple as possible, to keep it useful for other routers as well.
+On the structure of URLs for this blocklist consult [AVM's documentation for blocklists](http://service.avm.de/help/de/FRITZ-Box-Fon-WLAN-7490/014/hilfe_internet_filter_blacklist). Keep in mind to keep this list as simple as possible, to keep it useful for other routers as well.
 
 Contributing
 ------------
 
-I am happy to merge your contributions to this file. Please make sure that the blacklist is ordered alphabetically, and you have removed any unneccessary whitespaces.
+I am happy to merge your contributions to this file. Please make sure that the blocklist is ordered alphabetically, and you have removed any unneccessary whitespaces.
 
 Legal stuff
 -----------
