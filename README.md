@@ -11,7 +11,7 @@ Instructions
 Short instructions:
 
 1. See [AVM's instructions on how to setup a blocklist in your Fritz!Box](http://en.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/publication/show/8_Restricting-Internet-access-using-parental-controls/)
-2. Copy contents of [fritzbox-blocklist.txt](https://raw.githubusercontent.com/steigerbalett/fritzbox-blacklist/master/fritzbox-blocklist.txt) to your Fritz!Box' blacklist
+2. Copy contents of [fritzbox-blocklist.txt](https://raw.githubusercontent.com/steigerbalett/fritzbox-blacklist/master/fritzbox-blocklist.txt) to your Fritz!Box' blocklist
 3. Be sure to check if HTTPS traffic is still allowed
 
 This will work with a standard firmware.
