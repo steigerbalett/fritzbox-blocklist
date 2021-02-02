@@ -1,0 +1,7 @@
+    youtube.com
+    youtube-nocookie.com
+    youtu.be
+    ytimg.com
+    ggpht.com
+    googleapis.com
+    googlevideo.com
