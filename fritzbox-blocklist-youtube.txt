@@ -1,7 +1,10 @@
-    youtube.com
-    youtube-nocookie.com
-    youtu.be
-    ytimg.com
-    ggpht.com
-    googleapis.com
-    googlevideo.com
+dailymotion.com
+ggpht.com
+googleapis.com
+googlevideo.com
+tiktok.com
+vimeo.com
+youtube.com
+youtube-nocookie.com
+youtu.be
+ytimg.com
