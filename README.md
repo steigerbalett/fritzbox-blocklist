@@ -4,6 +4,8 @@
 
 Werbeblocker für die AVM Fritz!Box und andere Router.
 
+Anleitung:
+------------
 
 https://avm.de/service/fritzbox/fritzbox-7590/wissensdatenbank/publication/show/3395_Filterlisten-fur-Internetseiten-erstellen/
 
@@ -12,7 +14,7 @@ https://avm.de/service/fritzbox/fritzbox-7590/wissensdatenbank/publication/show/
 2. Klicken Sie im Menü "Internet" auf "Filter".
 3. Klicken Sie auf die Registerkarte "Listen".
 4. Klicken Sie neben dem Eintrag "Gesperrte Internetseiten (Blacklist)" auf den Link "bearbeiten".
-5. Den Inhalt der Liste fritzbox-blocklist.txt kopieren und dort einfügen
+5. Den Inhalt der Liste [fritzbox-blocklist.txt](https://github.com/steigerbalett/fritzbox-blocklist/raw/master/fritzbox-blocklist.txt) kopieren und dort einfügen
 6. Klicken Sie zum Speichern der Liste auf "Übernehmen".
 
 
@@ -20,14 +22,15 @@ Youtube blockieren:
 
 https://avm.de/service/fritzbox/fritzbox-7590/wissensdatenbank/publication/show/3344_YouTube-in-der-Kindersicherung-sperren/
 
-Den Inhalt der Liste fritzbox-blocklist-youtube.txt kopieren und dort einfügen
+Den Inhalt der Liste [fritzbox-blocklist-video.txt](https://github.com/steigerbalett/fritzbox-blocklist/raw/master/fritzbox-blocklist-video.txt) kopieren und dort wie oben beschrieben einfügen.
 
 
+# # #
 
 
 :do_not_litter: Fritz!Box Blocklist
 ===================================
-A list of domains to be blocked in my Fritz!Box (and maybe yours).
+A list of domains to be blocked in my Fritz!Box.
 
 Instructions
 ------------
