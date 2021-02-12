@@ -1,6 +1,5 @@
 dailymotion.com
-ggpht.com
-googleapis.com
+yt3.ggpht.com
 googlevideo.com
 tiktok.com
 vimeo.com
