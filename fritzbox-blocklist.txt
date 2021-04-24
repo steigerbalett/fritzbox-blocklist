@@ -71,6 +71,7 @@ ads.saymedia.com
 ads.smartdevicemedia.com
 ads.xxxad.net
 ads.yahoo.com
+ads.yap.yahoo.com
 ads.youtube.com
 ads1.msads.net
 ads1.msn.com
@@ -155,14 +156,18 @@ doubleclick.net
 edge.reporo.net
 eltrafiko.com
 eviltracker.net
+fastcklick.net
 foreseeresults.com
+freshmarketer.com
 ftpcontent.worldnow.com
 gemini.yahoo.com
 google-analytics.com
 googlesyndication.com
+googleadservices.com
 greystripe.com
 gsmtop.net
 gts-ads.twistbox.com
+hotjar.com
 html5adkit.plusmo.s3.amazonaws.com
 i.tapit.com
 iacpromotion.s3.amazonaws.com
@@ -182,9 +187,12 @@ ivwbox.de
 jumptap.com
 lb.usemaxserver.de
 ligatus.com
+luckyorange.com
+luckyorange.net
 m.adsymptotic.com
 m.quantserve.com
 mdotm.com
+media.net
 media.mobpartner.mobi
 medialytics.com
 medrx.sensis.com.au
@@ -197,6 +205,7 @@ mobilityware.com
 mobpartner.mobi
 mocean.mobi
 mojiva.com
+mouseflow.com
 mydas.mobi
 netdna.reporo.net
 nuggad.net
@@ -244,6 +253,8 @@ vcmedia.vn
 velti.com
 vrvm.com
 vserv.mobi
+yandex.com
+yandex.net
 yandex.ru
 hbbtv-1.eurosport.com
 hbbtv-extern-fe01.sim-technik.de
