@@ -3,6 +3,7 @@
 **English version below**
 
 Werbeblocker für die AVM Fritz!Box und andere Router.
+Funktioniert nur unter IPv4 zuverlässig - im Zweifel IPv6 abschalten wenn man die Werbung blocken möchte.
 
 Anleitung:
 ------------
@@ -31,6 +32,7 @@ Den Inhalt der Liste [fritzbox-blocklist-video.txt](https://github.com/steigerba
 :do_not_litter: Fritz!Box Blocklist
 ===================================
 A list of domains to be blocked in my Fritz!Box.
+For IPv4 only.
 
 Instructions
 ------------
