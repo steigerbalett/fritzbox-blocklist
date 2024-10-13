@@ -9,7 +9,7 @@ Funktioniert nur unter IPv4 zuverlässig - im Zweifel IPv6 abschalten wenn man d
 Anleitung:
 ------------
 
-https://avm.de/service/fritzbox/fritzbox-7590/wissensdatenbank/publication/show/3395_Filterlisten-fur-Internetseiten-erstellen/
+https://avm.de/service/wissensdatenbank/dok/FRITZ-Box-7690/3395_Filterlisten-fur-Internetseiten-in-FRITZ-Box-erstellen/
 
 
 1. Klicken Sie in der Benutzeroberfläche der FRITZ!Box auf "Internet".
@@ -40,7 +40,7 @@ Instructions
 
 Short instructions:
 
-1. See [AVM's instructions on how to setup a blocklist in your Fritz!Box](http://en.avm.de/service/fritzbox/fritzbox-7490/knowledge-base/publication/show/8_Restricting-Internet-access-using-parental-controls/)
+1. See [AVM's instructions on how to setup a blocklist in your Fritz!Box](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7690/3395_Creating-filter-lists-for-websites-in-the-FRITZ-Box/) and [Blocking YouTube in the FRITZ!Box parental controls](https://en.avm.de/service/knowledge-base/dok/FRITZ-Box-7690/3344_Blocking-YouTube-in-the-FRITZ-Box-parental-controls/)
 2. Copy contents of [fritzbox-blocklist.txt](https://raw.githubusercontent.com/steigerbalett/fritzbox-blacklist/master/fritzbox-blocklist.txt) to your Fritz!Box' blocklist
 3. Be sure to check if HTTPS traffic is still allowed
 
@@ -65,7 +65,7 @@ Put each domain in a single line. Do not enter comments or anything else.
 
 E.g.: To block `http://ads.example.com/some_script.js` enter `ads.example.com` or just `example.com`. `example.com` will also block all files from `www.example.com` and any other subdomain.
 
-On the structure of URLs for this blocklist consult [AVM's documentation for blocklists](http://service.avm.de/help/de/FRITZ-Box-Fon-WLAN-7490/014/hilfe_internet_filter_blacklist). Keep in mind to keep this list as simple as possible, to keep it useful for other routers as well.
+Keep in mind to keep this list as simple as possible, to keep it useful for other routers as well.
 
 Contributing
 ------------
@@ -75,7 +75,7 @@ I am happy to merge your contributions to this file. Please make sure that the b
 Legal stuff
 -----------
 
-Author: [Frank Boës](http://3960.org) and others
+Original Author was: [Frank Boës](http://3960.org) and others
 
 Copyright & license: See LICENSE.txt
 
