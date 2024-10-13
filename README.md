@@ -4,6 +4,7 @@
 
 Werbeblocker für die AVM Fritz!Box und andere Router.
 Funktioniert nur unter IPv4 zuverlässig - im Zweifel IPv6 abschalten wenn man die Werbung blocken möchte.
+(Funktioniert leider auch mit FRITZ!OS 8.0 immer noch nur mit IPv4) 
 
 Anleitung:
 ------------
