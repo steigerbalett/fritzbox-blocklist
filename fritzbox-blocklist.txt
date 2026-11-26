@@ -145,8 +145,11 @@ chartboost.com
 click.buzzcity.net
 coconuts.boy.jp
 conduit.com
+connect.decknetwork.net
 creative1cdn.mobfox.com
 crispadvertising.com
+criteo.com
+criteo.net
 d2bgg7rjywcwsy.cloudfront.net
 d3anogn3pbtk4v.cloudfront.net
 d3oltyb66oj2v8.cloudfront.net
@@ -187,6 +190,8 @@ intellitxt.com
 ivwbox.de
 jumptap.com
 lb.usemaxserver.de
+lgad.cjpowercast.com
+lgsmartad.com
 ligatus.com
 luckyorange.com
 luckyorange.net
@@ -209,9 +214,11 @@ mojiva.com
 mouseflow.com
 mydas.mobi
 netdna.reporo.net
+ngfts.lge.com
 nuggad.net
 oasc04012.247realmedia.com
 outbrain.com
+outbrain.net
 overture.com
 pflexads.com
 phluantmobile.net
@@ -228,6 +235,7 @@ s.youtube.com
 s.ytimg.com
 s0.2mdn.net
 s3.phluant.com
+samsungrm.net
 show.buzzcity.net
 sitemeter.com
 smaato.net
